@@ -1,0 +1,17 @@
+
+.test_op {
+    display: none
+}
+.showcase{
+    display: flex;
+    flex: 1 1 0;
+    gap: 10px;
+    h3{
+        color: purple;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20;
+    }
+    p{
+        color: blue;
+    }
+}
